@@ -3,7 +3,7 @@
   "license": "ISC",
   "version": "1.0.0",
   "description": "Scripts for create repack app",
-  "homepage": "",
+  "homepage": "https://github.com/wdjungst/repack-scripts",
   "author": "Dave Jungst",
   "keywords": [
     "cli",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/wdjungst/repack-scripts"
   },
   "main": "index.js",
   "dependencies": {
